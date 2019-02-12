@@ -1,13 +1,13 @@
 {
-  "main.css": "/static/css/main.ab918435.chunk.css",
-  "main.js": "/static/js/main.84e3117d.chunk.js",
-  "main.js.map": "/static/js/main.84e3117d.chunk.js.map",
-  "static/js/1.92b9a3a6.chunk.js": "/static/js/1.92b9a3a6.chunk.js",
-  "static/js/1.92b9a3a6.chunk.js.map": "/static/js/1.92b9a3a6.chunk.js.map",
-  "runtime~main.js": "/static/js/runtime~main.229c360f.js",
-  "runtime~main.js.map": "/static/js/runtime~main.229c360f.js.map",
-  "static/css/main.ab918435.chunk.css.map": "/static/css/main.ab918435.chunk.css.map",
-  "index.html": "/index.html",
-  "precache-manifest.50d48063855fc93c8039ec166517af6f.js": "/precache-manifest.50d48063855fc93c8039ec166517af6f.js",
-  "service-worker.js": "/service-worker.js"
+  "main.css": "/reddit-reader/static/css/main.ab918435.chunk.css",
+  "main.js": "/reddit-reader/static/js/main.a5542b5a.chunk.js",
+  "main.js.map": "/reddit-reader/static/js/main.a5542b5a.chunk.js.map",
+  "static/js/1.92b9a3a6.chunk.js": "/reddit-reader/static/js/1.92b9a3a6.chunk.js",
+  "static/js/1.92b9a3a6.chunk.js.map": "/reddit-reader/static/js/1.92b9a3a6.chunk.js.map",
+  "runtime~main.js": "/reddit-reader/static/js/runtime~main.57f29a89.js",
+  "runtime~main.js.map": "/reddit-reader/static/js/runtime~main.57f29a89.js.map",
+  "static/css/main.ab918435.chunk.css.map": "/reddit-reader/static/css/main.ab918435.chunk.css.map",
+  "index.html": "/reddit-reader/index.html",
+  "precache-manifest.766b03ab0d50ba18db2ee60408e3816b.js": "/reddit-reader/precache-manifest.766b03ab0d50ba18db2ee60408e3816b.js",
+  "service-worker.js": "/reddit-reader/service-worker.js"
 }
