@@ -2,12 +2,14 @@
   "name": "reddit-reader",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://mfeyg.github.io/reddit-reader/",
   "dependencies": {
     "@types/jest": "23.3.13",
     "@types/node": "10.12.21",
     "@types/react": "16.8.1",
     "@types/react-dom": "16.0.11",
     "@types/react-redux": "^7.0.1",
+    "gh-pages": "2.0.1",
     "io-ts": "^1.7.1",
     "react": "^16.7.0",
     "react-dom": "^16.7.0",
@@ -20,7 +22,9 @@
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
-    "eject": "react-scripts eject"
+    "eject": "react-scripts eject",
+    "predeploy": "yarn build",
+    "deploy": "gh-pages -d build"
   },
   "eslintConfig": {
     "extends": "react-app"
